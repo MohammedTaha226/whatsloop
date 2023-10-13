@@ -1,0 +1,938 @@
+/* 197 of 2003 CSS properties converted by rtl.daskhat.ir 
+ These properties should be override originals. 
+ just load rtl css file after original css file.*/ 
+
+/* body {direction:rtl;} */
+
+ul{
+    padding-left: 0;
+}
+
+.header{
+    left: 0;
+    right: auto;
+}
+
+.header .logo{
+    float: left;
+    margin-right: 69px;
+    margin-left: auto;
+}
+
+.header .listMenu{
+    float: left;
+}
+
+.header .listMenu li{
+    float: left;
+}
+
+.header .listMenu li .subMenu{
+    left: 15px;
+    right: auto;
+}
+
+.header .listMenu li .subMenu li a{
+    border-left: 3px solid #fff;
+    border-right: none;
+}
+
+.header .listMenu li a i{
+    margin-left: 5px;
+    margin-right: auto;
+}
+
+.header .loginBtn{
+    margin-left: 30px;
+    margin-right: auto;
+    float: right;
+}
+
+.header .options{
+    float: right;
+    margin-left: 35px;
+    margin-right: auto;
+}
+
+.header .options .iconOption span, .header .options .iconOption:before, .header .options .iconOption:after{
+    right: 0;
+    left: auto;
+}
+
+.header .options .optionsSub{
+    left: 0;
+    right: auto;
+}
+
+.header .options .optionsSub a{
+    border-left: 3px solid #fff;
+    border-right: none;
+}
+
+.menuMobile{
+    right: 0;
+    left: auto;
+}
+
+.menuMobile .BgClose{
+    right: 0;
+    left: auto;
+}
+
+.menuMobile .menuContent{
+    left: -320px;
+    right: auto;
+}
+
+.menuMobile .menuContent.active{
+    left: 0;
+    right: auto;
+}
+
+.menuMobile .headMenu{
+    padding-right: 21px;
+    padding-left: 0;
+}
+
+.menuMobile .menuContent .changeLang{
+    float: left;
+}
+
+.menuMobile .menuContent .closeX{
+    right: 20px;
+    left: auto;
+}
+
+.menuMobile .menuContent .closeX i{
+    float: right;
+}
+
+.menuMobile .menuContent .menuRes li a i{
+    float: right;
+}
+
+.menuMobile .menuContent .menuRes li .subMenu li a{
+    padding-left: 40px;
+    padding-right: 0;
+}
+
+.menuMobile .menuContent .menuRes li .subMenu li a:before{
+    left: 20px;
+    right: auto;
+}
+
+.bx-wrapper .bx-viewport{
+    right: 0;
+    left: auto;
+}
+
+.slider .bg{
+    left: 0;
+    right: auto;
+}
+
+.slider .bgImg{
+    left: -18%;
+    right: auto;
+}
+
+
+.slider .details{
+    direction: ltr;
+    text-align: left;
+}
+
+.the-slider-control{
+    left: 45px;
+    right: auto;
+}
+
+.the-slider-control li:first-of-type{
+    margin-right: 20px;
+    margin-left: auto;
+}
+
+.the-slider-control li span i
+{
+    transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+}
+
+
+.sendMessage .desc a{
+    direction: rtl;
+}
+
+.apiDiv .listApi li{
+    float: left;
+    padding-left: 20px;
+    padding-right: 0;
+}
+
+.apiDiv .listApi li:before{
+    left: 0;
+    right: auto;
+}
+
+.sliderLabDiv .bg{
+    left: calc(50% - 721.5px);
+    right: auto;
+}
+
+
+.sliderLab .row .item i.flaticon-alert{
+    padding-right: 23px;
+    padding-left: 0;
+}
+
+.sliderLab .row .item .titleItem:before{
+    right: calc(50% - 10px);
+    left: auto;
+}
+
+.sliderLabDiv .MouseContent .mouse{
+    margin-left: 10px;
+    margin-right: auto;
+    float: right;
+}
+
+.properties .item i{
+    float: left;
+}
+
+.properties .item .details{
+    padding-left: 10px;
+    padding-right: 0;
+    float: left;
+}
+
+.properties .item .details .titleItem:before{
+    left: 2px;
+    right: auto;
+}
+
+.svgDiv .icon.icon1{
+    left: calc(50% - 32.5px);
+    right: auto;
+}
+
+.svgDiv .icon.icon2{
+    left: 0;
+    right: auto;
+}
+
+.svgDiv .icon.icon3{
+    left: 0;
+    right: auto;
+}
+
+.svgDiv .icon.icon4{
+    left: calc(50% - 32.5px);
+    right: auto;
+}
+
+.svgDiv .icon.icon5{
+    right: 0;
+    left: auto;
+}
+
+.svgDiv .icon.icon6{
+    right: 0;
+    left: auto;
+}
+
+.svgDiv .icon .descIcon{
+    left: calc(100% + 7px);
+    right: auto;
+    border-top-left-radius: 0;
+    border-top-right-radius: none;
+}
+
+.svgDiv .icon .descIcon.rightPosition{
+    left: auto;
+    right: calc(100% + 7px);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 0;
+}
+
+.svgDiv .icon .descIcon.rightPosition:before{
+    right: auto;
+    left: 100%;
+    border-left: 0;
+    border-right: 15px solid transparent;
+}
+
+.svgDiv .icon .descIcon:before{
+    right: 100%;
+    left: auto;
+    border-left: 15px solid transparent;
+    border-right: none;
+}
+
+
+
+.robotSection .bg{
+    left: calc(50% - 960px);
+    right: auto;
+}
+
+.robotSection .accordion .accordion-title i{
+    right: 15px;
+    left: auto;
+}
+
+.robotSection .btnsRobot a:first-of-type{
+    margin-right: 25px;
+    margin-left: auto;
+}
+
+.robotSection .btnsRobot a i{
+    margin-right: 5px;
+    margin-left: auto;
+}
+
+
+
+
+.testSystem .itemTest .details{
+    left: 0;
+    right: auto;
+}
+
+.testSystem .itemTest .titleItem{
+    padding-left: 25px;
+    padding-right: 0;
+    border-left: 3px solid #00c6bc;
+    border-right: none;
+}
+
+.plans .plan .planHead{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.plans .plan .planHead .price:before{
+    left: 100%;
+    right: auto;
+}
+
+.plans .plan .planHead .listHead li{
+    float: left;
+}
+
+.plans .plan .planHead .listHead li:first-of-type{
+    margin-right: 30px;
+    margin-left: auto;
+}
+
+.plans .plan .planHead .listHead li:before{
+    left: 0;
+    right: auto;
+}
+
+.plans .plan .planContent li{
+    padding: 0 15px 0 20px ;
+}
+
+.plans .plan .planContent li .fa-check{
+    float: left;
+    margin-right: 15px;
+    margin-left: auto;
+}
+
+.plans .plan .planContent li .iconDesc{
+    float: right;
+}
+
+.plans .plan .planContent li .iconDesc .descIcon{
+    text-align: left;
+    left: calc(100% + 14px);
+    right: auto;
+    border-top-left-radius: 0;
+    border-top-right-radius: none;
+}
+
+.plans .plan .planContent li .iconDesc .descIcon.rightPosition{
+    left: auto;
+    right: calc(100% + 14px);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 0;
+}
+
+.plans .plan .planContent li .iconDesc .descIcon.rightPosition:before{
+    right: auto;
+    left: 100%;
+    border-left: 0;
+    border-right: 15px solid transparent;
+}
+
+.plans .plan .planContent li .iconDesc .descIcon:before{
+    right: 100%;
+    left: auto;
+    border-left: 15px solid transparent;
+    border-right: none;
+}
+
+.subscribe .formSub{
+    text-align: left;
+}
+
+.subscribe .formSub input{
+    float: left;
+    margin-right: 20px;
+    margin-left: auto;
+}
+
+.footer .logoFooter{
+    text-align: right;
+}
+
+.footer .footerInfo{
+    padding: 30px 30px 30px 60px ;
+}
+
+.footer .footerInfo .socialFooter{
+    float: right;
+}
+
+.footer .footerInfo .socialFooter li{
+    float: right;
+}
+
+.footer .footerInfo .socialFooter li:not(:last-of-type){
+    margin-left: 30px;
+    margin-right: auto;
+}
+
+.footer .footerInfo .infoNumb{
+    float: left;
+}
+
+.footer .footerInfo .infoNumb:first-of-type{
+    margin-right: 45px;
+    margin-left: auto;
+}
+
+.footer .footerInfo .infoNumb i{
+    margin-right: 10px;
+    margin-left: auto;
+    float: left;
+}
+
+.footer .footerDown .listFooterDown{
+    float: left;
+    margin-right: 20px;
+    margin-left: auto;
+}
+
+.footer .footerDown .listFooterDown li{
+    float: left;
+}
+
+.footer .footerDown .listFooterDown li:not(:last-of-type):before{
+    float: right;
+}
+
+.footer .footerDown .paymentImgs{
+    float: right;
+}
+
+.footer .footerDown .paymentImgs li{
+    float: right;
+}
+
+.footer .footerDown .paymentImgs li:not(:last-of-type){
+    margin-left: 10px;
+    margin-right: auto;
+}
+
+.footer .footerDown .enBtn{
+    float: left;
+}
+
+.Breadcrumb:before{
+    left: 0;
+    right: auto;
+}
+
+.Breadcrumb img{
+    right: 0;
+    left: auto;
+}
+
+.contactUs .contactInfo .row .col-md-4:not(:last-of-type):before{
+    right: 0;
+    left: auto;
+}
+
+.contactUs .contactInfo .itemInfo:before{
+    left: calc(50% - 150px);
+    right: auto;
+}
+
+.contactUs .formContact button{
+    padding-left: 75px;
+    padding-right: 0;
+    text-align: left;
+}
+
+.bgMove{
+    right: 0;
+    left: auto;
+}
+
+.login .bgForm{
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.login .paddingList{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 0;
+}
+
+.login .paddingList .list li{
+    padding-left: 35px;
+    padding-right: 0;
+}
+
+.login .paddingList .list li:before{
+    left: 0;
+    right: auto;
+}
+
+.login .tabBtns li{
+    float: left;
+}
+
+.login .tabBtns li:first-of-type{
+    margin-right: 10px;
+    margin-left: auto;
+}
+
+.login .singUp .forgetBtn{
+    float: right;
+}
+
+.login label{
+    padding-left: 20px;
+    padding-right: 0;
+    float: left;
+}
+
+.login label input{
+    left: -9999px;
+    right: auto;
+}
+
+.login label input:checked + i:after{
+    left: -2px;
+    right: auto;
+}
+
+.login label i{
+    left: 0;
+    right: auto;
+}
+
+.login .loginFooter .list{
+    float: left;
+}
+
+.login .loginFooter .list li{
+    float: left;
+}
+
+.login .loginFooter .list li:not(:last-of-type){
+    margin-right: 20px;
+    margin-left: auto;
+}
+
+.login .copyRights{
+    float: right;
+}
+
+.robotQues img
+{
+    transform: rotateY(-180deg);
+    -webkit-transform: rotateY(-180deg);
+    -moz-transform: rotateY(-180deg);
+    -o-transform: rotateY(-180deg);
+    -ms-transform: rotateY(-180deg);
+}
+
+.postDetails .shareDiv .listShare li a i{
+    float: right;
+}
+
+.postDetails .details .date{
+    right: 30px;
+    left: auto;
+}
+
+.callSection .listCall li{
+    padding-left: 30px;
+    padding-right: 0;
+}
+
+.callSection .listCall li:before{
+    left: 0;
+    right: auto;
+}
+
+.aboutUs .bg{
+    left: calc(50% - 325.5px);
+    right: auto;
+}
+
+.aboutUs .features .itemFeature i{
+    left: calc(50% - 80px);
+    right: auto;
+}
+
+.aboutUs .features .itemFeature i:after{
+    left: 0;
+    right: auto;
+}
+
+.reviews .itemReview .desc{
+    padding: 40px 40px 30px 20px ;
+}
+
+.reviews .itemReview .desc:before{
+    left: 85px;
+    right: auto;
+    border-right: 11px solid transparent;
+    border-left: 11px solid transparent;
+}
+
+.reviews .itemReview .content{
+    padding-left: 50px;
+    padding-right: 0;
+}
+
+.reviews .itemReview .content img{
+    float: left;
+}
+
+.reviews .itemReview .content .details{
+    float: left;
+    padding-left: 15px;
+    padding-right: 0;
+}
+
+.products .item .mask{
+    float: left;
+}
+
+.products .item .mask:before{
+    right: 0;
+    left: auto;
+}
+
+.products .item .mask i{
+    right: 30px;
+    left: auto;
+}
+
+.products .item .details{
+    padding-left: 30px;
+    padding-right: 0;
+    float: left;
+}
+
+.products .item .details .more i{
+    margin-right: 5px;
+    margin-left: auto;
+}
+
+.apiContent .ListDetails li{
+    padding-left: 25px;
+    padding-right: 0;
+}
+
+.apiContent .ListDetails li:before{
+    left: 0;
+    right: auto;
+}
+
+.apiContent .system img{
+    float: right;
+}
+
+.messagePage .itemOwl .descService{
+    left: 0;
+    right: auto;
+    text-align: left;
+}
+
+.messagePage .itemOwl .descService:before{
+    border-right: 11px solid transparent;
+    border-left: 11px solid transparent;
+    left: 10%;
+    right: auto;
+}
+
+.messagePage .itemOwl .descService2:before{
+    left: 47%;
+    right: auto;
+}
+
+.messagePage .itemOwl .descService3:before{
+    left: auto;
+    right: 10%;
+}
+
+.featuresRobot .item .details i{
+    float: left;
+}
+
+.featuresRobot .item .details .desc{
+    float: left;
+    padding-left: 10px;
+    padding-right: 0;
+}
+
+.servicesRobot .item a{
+    right: 30px;
+    left: auto;
+}
+
+.servicesRobot .item a i{
+    float: right;
+    margin-left: 10px;
+    margin-right: auto;
+    transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+}
+
+.servicesRobot .bgServices{
+    right: 0;
+    left: auto;
+}
+
+.statistics .progress-bar span{
+    right: -20px;
+    left: auto;
+}
+
+/* 78 of 243 CSS properties converted by rtl.daskhat.ir 
+ These properties should be override originals. 
+ just load rtl css file after original css file.*/ 
+
+/* body {direction:rtl;} */
+
+@media (max-width: 1443px){
+    .sliderLabDiv .bg{
+        left: 0;
+        right: auto;
+    }
+
+}
+
+@media (max-width: 1920px){
+    .robotSection .bg{
+        left: 0;
+        right: auto;
+    }
+
+}
+
+@media (max-width: 1200px){
+    .header .logo{
+        margin-right: 20px;
+        margin-left: auto;
+    }
+
+    .header .loginBtn{
+        margin-left: 20px;
+        margin-right: auto;
+    }
+
+    .sliderLab .mobileApp{
+        right: 11.9%;
+        left: auto;
+    }
+
+
+
+}
+
+@media (min-width: 991px) and (max-width:1200px){
+
+
+}
+
+@media (max-width: 991px){
+    .header .options{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+
+
+    .sliderLab .mobileApp{
+        right: 10.6%;
+        left: auto;
+    }
+
+    .footer .footerInfo .infoNumb:first-of-type,  .footer .footerInfo .infoNumb,  .footer .footerInfo .socialFooter{
+        margin-right: 0;
+    }
+
+    .footer .footerDown .listFooterDown{
+        margin-right: 0;
+    }
+
+    .plans .plan .planContent li .iconDesc .descIcon{
+        left: auto;
+        right: calc(100% + 14px);
+        border-top-left-radius: 5px;
+        border-top-right-radius: 0;
+    }
+
+    .plans .plan .planContent li .iconDesc .descIcon:before{
+        right: auto;
+        left: 100%;
+        border-left: 0;
+        border-right: 15px solid transparent;
+    }
+
+    .svgDiv .icon .descIcon{
+        left: auto;
+        right: calc(100% + 7px);
+        border-top-left-radius: 10px;
+        border-top-right-radius: 0;
+    }
+
+    .svgDiv .icon .descIcon:before{
+        border-left: 0;
+        border-right: 15px solid transparent;
+        right: auto;
+        left: calc(100% - 1px);
+    }
+
+    .svgDiv .icon .descIcon.rightPosition{
+        right: auto;
+        left: calc(100% + 7px);
+        border-top-right-radius: 10px;
+        border-top-left-radius: 0;
+    }
+
+    .svgDiv .icon .descIcon.rightPosition:before{
+        border-right: 0;
+        border-left: 15px solid transparent;
+        left: auto;
+        right: calc(100% - 1px);
+    }
+
+    .svgDiv .icon .descIcon.descTop{
+        right: calc(50% - 132px);
+        left: auto;
+    }
+
+    .svgDiv .icon .descIcon.descTop:before{
+        border-right: 5px solid transparent;
+        border-left: 5px solid transparent;
+        left: calc(50% - 5px);
+        right: auto;
+    }
+
+    .svgDiv .icon .descIcon.descDown{
+        left: calc(50% - 132px);
+        right: auto;
+    }
+
+    .svgDiv .icon .descIcon.descDown:before{
+        border-right: 5px solid transparent;
+        border-left: 5px solid transparent;
+        left: calc(50% - 5px);
+        right: auto;
+    }
+
+    .contactUs .contactInfo .row .col-md-4:not(:last-of-type):before{
+        right: calc(50% - 150px);
+        left: auto;
+    }
+
+    .login .paddingList{
+        border-bottom-left-radius: 7px;
+        border-bottom-right-radius: 7px;
+    }
+
+
+    .products .item .details{
+        padding-left: 0;
+    }
+
+    .messagePage .svgDiv .icon.right .descIcon{
+        left: calc(100% + 7px);
+        right: auto;
+        border-top-right-radius: 10px;
+        border-top-left-radius: 0;
+    }
+
+    .messagePage .svgDiv .icon.right .descIcon:before{
+        border-right: 0;
+        border-left: 15px solid transparent;
+        right: calc(100% - 1px);
+        left: auto;
+    }
+
+    .featuresRobot .item .details .desc{
+        padding-left: 0;
+    }
+
+}
+
+@media (max-width: 767px){
+    .postDetails .details{
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+
+    .svgDiv .icon .descIcon.descTop{
+        right: calc(50% - 100px);
+        left: auto;
+    }
+
+    .svgDiv .icon .descIcon.descDown{
+        right: auto;
+        left: calc(50% - 100px);
+    }
+
+    .messagePage .itemOwl .descService{
+        left: calc(50% - 150px);
+        right: auto;
+    }
+
+    .messagePage .itemOwl .descService:before{
+        right: auto!important;
+        left: calc(50% - 12px)!important;
+    }
+
+}
+
+@media (max-width: 479px){
+    .footer .footerInfo .socialFooter li:not(:last-of-type){
+        margin-left: 25px;
+        margin-right: auto;
+    }
+
+    .footer .footerDown .paymentImgs li:not(:last-of-type){
+        margin-left: 5px;
+        margin-right: auto;
+    }
+
+}
+
